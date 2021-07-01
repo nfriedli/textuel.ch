@@ -3,10 +3,13 @@ textuel.ch
 ==========
 
 Tu te trouves sur ce qui deviendra le site le plus ennuyeux du monde.
-Mais tu y apprendras plein de choses utiles et tu y reviendras.
-Du texte & des liens; l'essence du web.
+Tu y liras plein de choses utiles. 
+Tu y reviendras.
 
-En attendant, tu peux lire ceci: https://justinjackson.ca/words_fr.html
+Je te souhaite un bel été, la bonne période pour lire `Ceci est une page Web.
+<https://justinjackson.ca/words_fr.html>`_
+
+
 
 .. title:: textuel.ch - du texte & des liens
 .. meta::
@@ -21,4 +24,6 @@ En attendant, tu peux lire ceci: https://justinjackson.ca/words_fr.html
 
 .. footer::
 
-    nicolas.friedli+textuel@gmail.com / Creative Commons Zero (CC0)
+    `Contact <nicolas.friedli+textuel@gmail.com>`_ / 
+    Creative Commons Zero (CC0) /
+    `GitHub <https://github.com/nfriedli/textuel.ch>`_
