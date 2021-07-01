@@ -11,4 +11,4 @@ En attendant: https://justinjackson.ca/words_fr.html
 
 .. footer::
 
-    nicolas.friedli+textuel@gmail.com / CC0
+    nicolas.friedli+textuel@gmail.com / Creative Commons Zero (CC0)
