@@ -64,8 +64,8 @@ html_search_language = 'fr'
 
 html_theme_options = {
     'analytics_id': 'UA-59198139-7',
-    'font_family': 'Inter, Lato, Rubik, "Open Sans", Roboto, Arial, sans-serif',
-    'head_font_family': 'Inter, Lato, Rubik, "Open Sans", Roboto, Arial, sans-serif',
+    'font_family': 'Asap, Inter, Lato, Rubik, "Open Sans", Roboto, Arial, sans-serif',
+    'head_font_family': 'Asap, Inter, Lato, Rubik, "Open Sans", Roboto, Arial, sans-serif',
     'code_font_family': '"Roboto Mono", Inconsolata, monospace',
 }
 
