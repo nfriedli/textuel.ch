@@ -1,2 +1,3 @@
-.vscode/
-_build/toctrees/
+.vscode
+node_modules
+.cache

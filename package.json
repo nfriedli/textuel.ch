@@ -1,0 +1,23 @@
+{
+  "name": "textuel.ch",
+  "version": "1.0.0",
+  "description": "https://textuel.ch",
+  "main": ".eleventy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nfriedli/textuel.ch.git"
+  },
+  "author": "Nicolas Friedli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nfriedli/textuel.ch/issues"
+  },
+  "homepage": "https://github.com/nfriedli/textuel.ch#readme",
+  "dependencies": {
+    "html-minifier": "^4.0.0",
+    "markdown-it": "^12.2.0"
+  }
+}
